@@ -1,0 +1,19 @@
+{
+  "name": "pq-core",
+  "version": "1.0.0",
+  "description": "PurpleQuant Inc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purpleQuantum/pq-core.git"
+  },
+  "author": "PurpleQuantum Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purpleQuantum/pq-core/issues"
+  },
+  "homepage": "https://github.com/purpleQuantum/pq-core#readme"
+}
